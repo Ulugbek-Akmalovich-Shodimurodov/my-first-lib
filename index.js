@@ -1,7 +1,5 @@
-module.exports.add = function add(a, b){
-    return a+b;
-}
+const math = require('ulugbeks-first-lib')
 
-module.exports.substract = function substract(a, b){
-    return a-b;
-}
+let result = math.add(20, 30);
+
+console.log(result);
