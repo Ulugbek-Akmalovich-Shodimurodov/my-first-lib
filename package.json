@@ -1,0 +1,26 @@
+{
+  "name": "ulugbeks-first-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulugbek-Akmalovich-Shodimurodov/my-first-lib.git"
+  },
+  "keywords": [
+    "math",
+    "add"
+  ],
+  "author": "Ulugbek Akmalovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulugbek-Akmalovich-Shodimurodov/my-first-lib/issues"
+  },
+  "homepage": "https://github.com/Ulugbek-Akmalovich-Shodimurodov/my-first-lib#readme",
+  "description": "Math functions",
+  "dependencies": {
+    "ulugbeks-first-lib": "^1.0.0"
+  }
+}
